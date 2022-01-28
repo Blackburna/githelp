@@ -1,0 +1,10 @@
+body{
+    background-color: gold;
+}
+h1,h3{
+    font-size: 35px;
+}
+li{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
